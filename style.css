@@ -42,3 +42,7 @@ table{
 .odd{
   background-color: #b1e5f2;
 }
+
+.container{
+  margin: 0 230px;
+}
