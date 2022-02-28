@@ -20,3 +20,20 @@ main p span{
   height: 50px;
   margin-top: 50px;
 }
+
+table{
+  border-spacing: 0;
+}
+
+.larghezza{
+  width: 50%;
+}
+
+.tab-title{
+  color: white;
+  background-color: #20a9e5;
+  text-align: left;
+}
+.odd{
+  background-color: #b1e5f2;
+}
