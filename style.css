@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+}
+
+div{
+  background-color: #4ea0ff;
+  background-image: url(img/pattern.png);
+  height: 180px;
+  
+}
