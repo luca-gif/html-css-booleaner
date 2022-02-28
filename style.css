@@ -5,13 +5,18 @@ body{
 header{
   background-color: #4ea0ff;
   background-image: url(img/pattern.png);
-  height: 180px;
-  
+  background-size: 30%;
 }
 
-p{
+
+.data{
   color: #7e7e7e;
 }
 main p span{
   color: #58beeb;
+}
+
+.logo{
+  height: 50px;
+  margin-top: 50px;
 }
