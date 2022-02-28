@@ -16,6 +16,11 @@ main p span{
   color: #58beeb;
 }
 
+.evidenziato{
+  background-color: #ffff00;
+  color: black;
+}
+
 .logo{
   height: 50px;
   margin-top: 50px;
